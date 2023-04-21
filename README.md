@@ -8,5 +8,8 @@ https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0792425
 
 https://docs.servicenow.com/bundle/utah-application-development/page/administer/auto-test-framework/reference/available-quick-start-tests.html
 
+<h1 ng-class="{'text-light': c.data.content_type == 'path'}" class="heading-xl-regular ng-binding">Upgrade Skipped Records</h1>
+
+
 
 https://www.servicenow.com/community/developer-events/platform-foundation-academy-session-5-getting-started-with/ev-p/2337606
