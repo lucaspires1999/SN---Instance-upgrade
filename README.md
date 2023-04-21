@@ -15,3 +15,11 @@ https://docs.servicenow.com/bundle/utah-application-development/page/administer/
 <p>Identify tips and techniques to speed up the review of skipped records in your current and future upgrades</p></p>
 
 https://www.servicenow.com/community/developer-events/platform-foundation-academy-session-5-getting-started-with/ev-p/2337606
+
+https://docs.servicenow.com/bundle/utah-platform-administration/page/administer/health-scan/reference/hs-landing-page.html
+
+https://docs.servicenow.com/bundle/utah-release-notes/page/release-notes/upgrades/upgrades-planning-checklist.html
+
+https://support.servicenow.com/now
+
+https://docs.servicenow.com/bundle/utah-platform-administration/page/administer/platform-upgrades/reference/upgrademon-landing-page.html
