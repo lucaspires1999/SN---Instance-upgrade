@@ -25,3 +25,15 @@ https://docs.servicenow.com/bundle/utah-release-notes/page/release-notes/upgrade
 https://support.servicenow.com/now
 
 https://docs.servicenow.com/bundle/utah-platform-administration/page/administer/platform-upgrades/reference/upgrademon-landing-page.html
+
+https://www.servicenow.com/success/playbook/innovate-at-scale.html
+
+https://docs.servicenow.com/bundle/utah-platform-administration/page/administer/managing-data/concept/c_SystemClone.html
+
+https://docs.servicenow.com/bundle/utah-application-development/page/build/system-update-sets/concept/system-update-sets.html
+
+https://docs.servicenow.com/bundle/utah-application-development/page/administer/auto-test-framework/concept/automated-test-framework.html
+
+<h1 ng-class="{'text-light': c.data.content_type == 'path'}" class="heading-xl-regular ng-binding">Using Debug Upgrade</h1>
+
+![image](https://user-images.githubusercontent.com/60494166/233526893-ddec5de9-5c46-46b3-b5ed-63e55b40c0c9.png)
