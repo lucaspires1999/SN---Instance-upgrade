@@ -14,6 +14,8 @@ https://docs.servicenow.com/bundle/utah-application-development/page/administer/
 <p>Recognize how to manage upgrade risk by prioritizing the review of certain skipped records</p>
 <p>Identify tips and techniques to speed up the review of skipped records in your current and future upgrades</p></p>
 
+<ul><li>Accurately apply ServiceNow best practices when processing skipped records during an upgrade</li><li>Recognize how to manage upgrade risk by prioritizing the review of certain skipped records</li><li>Identify tips and techniques to speed up the review of skipped records in your current and future upgrades</li></ul>
+
 https://www.servicenow.com/community/developer-events/platform-foundation-academy-session-5-getting-started-with/ev-p/2337606
 
 https://docs.servicenow.com/bundle/utah-platform-administration/page/administer/health-scan/reference/hs-landing-page.html
